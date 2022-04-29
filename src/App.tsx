@@ -1,3 +1,3 @@
 export default function App() {
-  return <div className="App">Testing commit </div>;
+  return <div className="App">Testing commits </div>;
 }
